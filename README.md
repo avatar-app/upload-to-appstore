@@ -14,5 +14,4 @@ APP_ID=123456789
 + Run command
 ```javascript
 ./upload-to-appstore.sh test.ipa
-
-APP_ID=123456789
+```
